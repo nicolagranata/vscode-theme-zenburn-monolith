@@ -10,6 +10,7 @@
 - [`Theme`] Fix some UI and Token colors;
 - [`Readme`] Fix some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
 - [`Readme`] Added some new fonts, revised some parameters of the existing ones;
+- [`Development`] Added `Famous Quotes from Movies` to `Fake UI` to better show font applied in fake screenshot;
 - [`Development`] Fix Fake UI elements due to browser or html2canvas.js improvements (partially hidden UI objects or wrong location in rendering);
 - [`Development`] Minor bugs fixed;
 
