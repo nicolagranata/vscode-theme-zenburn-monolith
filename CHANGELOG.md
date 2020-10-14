@@ -4,7 +4,7 @@
 
 > Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.152]
+## [1.1.153]
 
 - [`Theme`] Added `tab.lastPinnedBorder` color (VSCode 1.50);
 - [`Theme`] Fix some UI and Token colors;

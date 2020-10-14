@@ -164,10 +164,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Heliotrope** (10 skins): Petrol Blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-limestone-preview.png"  alt="Zenburn Monolith - Heliotrope - Limestone"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png"  alt="Zenburn Monolith - Heliotrope - Obsidian"></a>
 </center>
 
-<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
+<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github">Obsidian</a> 
 </div>
 
 
@@ -184,13 +184,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-beryl-preview.png" title="Go to Zenburn Monolith - Heliotrope - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-howlite-preview.png" title="Go to Zenburn Monolith - Heliotrope - Howlite" target="github">Howlite</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-morion-preview.png"  alt="Zenburn Monolith - Heliotrope - Morion"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png"  alt="Zenburn Monolith - Heliotrope - Obsidian"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-limestone-preview.png"  alt="Zenburn Monolith - Heliotrope - Limestone"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-morion-preview.png"  alt="Zenburn Monolith - Heliotrope - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-quartz-preview.png" title="Go to Zenburn Monolith - Heliotrope - Quartz" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-quartz-preview.png"  alt="Zenburn Monolith - Heliotrope - Quartz"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-sulfur-preview.png" title="Go to Zenburn Monolith - Heliotrope - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-sulfur-preview.png"  alt="Zenburn Monolith - Heliotrope - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github">Morion</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github">Obsidian</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-quartz-preview.png" title="Go to Zenburn Monolith - Heliotrope - Quartz" target="github">Quartz</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-sulfur-preview.png" title="Go to Zenburn Monolith - Heliotrope - Sulfur" target="github">Sulfur</a> 
 </td></tr>
@@ -224,10 +224,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Onyx** (10 skins): Flat Grayed UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-onyx-sulfur-preview.png"  alt="Zenburn Monolith - Onyx - Sulfur"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github"><img src="./_gfx/zenburn-monolith-onyx-quartz-preview.png"  alt="Zenburn Monolith - Onyx - Quartz"></a>
 </center>
 
-<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github">Sulfur</a> 
+<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github">Quartz</a> 
 </div>
 
 
@@ -247,12 +247,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-limestone-preview.png" title="Go to Zenburn Monolith - Onyx - Limestone" target="github"><img src="./_gfx/zenburn-monolith-onyx-limestone-preview.png"  alt="Zenburn Monolith - Onyx - Limestone"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github"><img src="./_gfx/zenburn-monolith-onyx-morion-preview.png"  alt="Zenburn Monolith - Onyx - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-obsidian-preview.png" title="Go to Zenburn Monolith - Onyx - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-onyx-obsidian-preview.png"  alt="Zenburn Monolith - Onyx - Obsidian"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github"><img src="./_gfx/zenburn-monolith-onyx-quartz-preview.png"  alt="Zenburn Monolith - Onyx - Quartz"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-onyx-sulfur-preview.png"  alt="Zenburn Monolith - Onyx - Sulfur"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-limestone-preview.png" title="Go to Zenburn Monolith - Onyx - Limestone" target="github">Limestone</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-obsidian-preview.png" title="Go to Zenburn Monolith - Onyx - Obsidian" target="github">Obsidian</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github">Quartz</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github">Sulfur</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-turquenite-preview.png" title="Go to Zenburn Monolith - Onyx - Turquenite" target="github"><img src="./_gfx/zenburn-monolith-onyx-turquenite-preview.png"  alt="Zenburn Monolith - Onyx - Turquenite"></a>
 </td><td colspan="3" rowspan="2" width="75%"></td></tr>
@@ -299,6 +299,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 |<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span>|Font Name and Download|
 |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span>| Minimum Size recommended for good Readability|
 |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span>|Font Line Height Preset|
+|<span title="Font Weight Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8660;</span>|Font Weight Preset|
 |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span>|Font Letter Spacing Preset|
 |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span>|Font has Ligatures|
 |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span>|Font has Script Variant for Italic|
@@ -317,7 +318,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 
 
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|---|
+|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|---|---|
 | 01 |  [Andale Mono](https://www.cufonfonts.com/download/font/andale-mono "Download Andale Mono")  | 11 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.cufonfonts.com/download/font/andale-mono "Download Andale Mono")  | [&#128195;](#font-01-129095 "Go to Settings for Font &#129095;")  |
 | 02 |  [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro "Download Anonymous Pro")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.marksimonson.com/fonts/view/anonymous-pro "Download Anonymous Pro")  | [&#128195;](#font-02-129095 "Go to Settings for Font &#129095;")  |
 | 03 |  [Antikor Mono](https://www.cufonfonts.com/download/font/antikor-mono "Download Antikor Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.cufonfonts.com/download/font/antikor-mono "Download Antikor Mono")  | [&#128195;](#font-03-129095 "Go to Settings for Font &#129095;")  |
@@ -328,9 +329,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 08 |  [Cascadia Code](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Code")  | 11 | 16 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Code")  | [&#128195;](#font-08-129095 "Go to Settings for Font &#129095;")  |
 | 09 |  [Cascadia Mono](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Mono")  | [&#128195;](#font-09-129095 "Go to Settings for Font &#129095;")  |
 | 10 |  [Code New Roman](https://www.dafont.com/code-new-roman.font "Download Code New Roman")  | 12 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.dafont.com/code-new-roman.font "Download Code New Roman")  | [&#128195;](#font-10-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 11 |  [Consola Mono](https://fontlibrary.org/en/font/consolamono "Download Consola Mono")  | 11 | 18 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 3.5 |  [&#129095;](https://fontlibrary.org/en/font/consolamono "Download Consola Mono")  | [&#128195;](#font-11-129095 "Go to Settings for Font &#129095;")  |
 | 12 |  [Consolas Ligaturized v2](https://github.com/somq/consolas-ligaturized/ "Download Consolas Ligaturized v2")  | 11 | 16 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://github.com/somq/consolas-ligaturized/ "Download Consolas Ligaturized v2")  | [&#128195;](#font-12-129095 "Go to Settings for Font &#129095;")  |
 | 13 |  [Conta Mono](https://fontesk.com/conta-typeface/ "Download Conta Mono")  | 12 | 18 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | 4.0 |  [&#129095;](https://fontesk.com/conta-typeface/ "Download Conta Mono")  | [&#128195;](#font-13-129095 "Go to Settings for Font &#129095;")  |
@@ -341,9 +342,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 18 |  [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono "Download DaddyTimeMono")  | 12 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/BourgeoisBear/DaddyTimeMono "Download DaddyTimeMono")  | [&#128195;](#font-18-129095 "Go to Settings for Font &#129095;")  |
 | 19 |  [DejaVu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode/releases/ "Download DejaVu Sans Code")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/SSNikolaevich/DejaVuSansCode/releases/ "Download DejaVu Sans Code")  | [&#128195;](#font-19-129095 "Go to Settings for Font &#129095;")  |
 | 20 |  [DejaVu Sans Mono](https://sourceforge.net/projects/dejavu/ "Download DejaVu Sans Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://sourceforge.net/projects/dejavu/ "Download DejaVu Sans Mono")  | [&#128195;](#font-20-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 21 |  [DejaVu Sans Mono - Bront](https://github.com/chrismwendt/bront "Download DejaVu Sans Mono - Bront - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/chrismwendt/bront "Download DejaVu Sans Mono - Bront - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | [&#128195;](#font-21-129095 "Go to Settings for Font &#129095;")  |
 | 22 |  [Droid Sans Mono](https://www.fontsquirrel.com/fonts/download/droid-sans "Download Droid Sans Mono")  | 10 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | 4.5 |  [&#129095;](https://www.fontsquirrel.com/fonts/download/droid-sans "Download Droid Sans Mono")  | [&#128195;](#font-22-129095 "Go to Settings for Font &#129095;")  |
 | 23 |  [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Download Envy Code R")  | 11 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Download Envy Code R")  | [&#128195;](#font-23-129095 "Go to Settings for Font &#129095;")  |
@@ -354,9 +355,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 28 |  [FiraFlott](https://github.com/kosimst/FiraFlott "Download FiraFlott - Notes: FiraFlott = Fira Code + FlottFlot Fonts")  | 10 | 14 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://github.com/kosimst/FiraFlott "Download FiraFlott - Notes: FiraFlott = Fira Code + FlottFlot Fonts")  | [&#128195;](#font-28-129095 "Go to Settings for Font &#129095;")  |
 | 29 |  [Hack](https://sourcefoundry.org/hack "Download Hack")  | 10 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 5.0 |  [&#129095;](https://sourcefoundry.org/hack "Download Hack")  | [&#128195;](#font-29-129095 "Go to Settings for Font &#129095;")  |
 | 30 |  [Hasklig](https://github.com/i-tu/Hasklig "Download Hasklig - Notes: Fork of `Source Code Pro`")  | 11 | 16 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/i-tu/Hasklig "Download Hasklig - Notes: Fork of `Source Code Pro`")  | [&#128195;](#font-30-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 31 |  [Hermit](https://pcaro.es/p/hermit/ "Download Hermit")  | 10 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 5.0 |  [&#129095;](https://pcaro.es/p/hermit/ "Download Hermit")  | [&#128195;](#font-31-129095 "Go to Settings for Font &#129095;")  |
 | 32 |  [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono "Download IBM Plex Mono")  | 11 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 5.0 |  [&#129095;](https://fonts.google.com/specimen/IBM+Plex+Mono "Download IBM Plex Mono")  | [&#128195;](#font-32-129095 "Go to Settings for Font &#129095;")  |
 | 33 |  [Inconsolata](https://fonts.google.com/specimen/Inconsolata "Download Inconsolata")  | 11 | 15 | 0.2 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 3.0 |  [&#129095;](https://fonts.google.com/specimen/Inconsolata "Download Inconsolata")  | [&#128195;](#font-33-129095 "Go to Settings for Font &#129095;")  |
@@ -367,9 +368,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 38 |  [Iosevka Curly Slab](https://typeof.net/Iosevka "Download Iosevka Curly Slab - Notes: Monospace, Curly Slab")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 3.5 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka Curly Slab - Notes: Monospace, Curly Slab")  | [&#128195;](#font-38-129095 "Go to Settings for Font &#129095;")  |
 | 39 |  [Iosevka SS01](https://typeof.net/Iosevka "Download Iosevka SS01 - Notes: Monospace, Andale Mono Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS01 - Notes: Monospace, Andale Mono Style")  | [&#128195;](#font-39-129095 "Go to Settings for Font &#129095;")  |
 | 40 |  [Iosevka SS02](https://typeof.net/Iosevka "Download Iosevka SS02 - Notes: Monospace, Anonymous Pro Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS02 - Notes: Monospace, Anonymous Pro Style")  | [&#128195;](#font-40-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 41 |  [Iosevka SS03](https://typeof.net/Iosevka "Download Iosevka SS03 - Notes: Monospace, Consolas Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS03 - Notes: Monospace, Consolas Style")  | [&#128195;](#font-41-129095 "Go to Settings for Font &#129095;")  |
 | 42 |  [Iosevka SS04](https://typeof.net/Iosevka "Download Iosevka SS04 - Notes: Monospace, Menlo Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS04 - Notes: Monospace, Menlo Style")  | [&#128195;](#font-42-129095 "Go to Settings for Font &#129095;")  |
 | 43 |  [Iosevka SS05](https://typeof.net/Iosevka "Download Iosevka SS05 - Notes: Monospace, Fira Mono Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS05 - Notes: Monospace, Fira Mono Style")  | [&#128195;](#font-43-129095 "Go to Settings for Font &#129095;")  |
@@ -380,9 +381,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 48 |  [Iosevka SS10](https://typeof.net/Iosevka "Download Iosevka SS10 - Notes: Monospace, Envy Code R Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS10 - Notes: Monospace, Envy Code R Style")  | [&#128195;](#font-48-129095 "Go to Settings for Font &#129095;")  |
 | 49 |  [Iosevka SS11](https://typeof.net/Iosevka "Download Iosevka SS11 - Notes: Monospace, X Windows Fixed Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS11 - Notes: Monospace, X Windows Fixed Style")  | [&#128195;](#font-49-129095 "Go to Settings for Font &#129095;")  |
 | 50 |  [Iosevka SS12](https://typeof.net/Iosevka "Download Iosevka SS12 - Notes: Monospace, Ubuntu Mono Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS12 - Notes: Monospace, Ubuntu Mono Style")  | [&#128195;](#font-50-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 51 |  [Iosevka SS13](https://typeof.net/Iosevka "Download Iosevka SS13 - Notes: Monospace, Lucida Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS13 - Notes: Monospace, Lucida Style")  | [&#128195;](#font-51-129095 "Go to Settings for Font &#129095;")  |
 | 52 |  [Iosevka SS14](https://typeof.net/Iosevka "Download Iosevka SS14 - Notes: Monospace, JetBrains Mono Style")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka SS14 - Notes: Monospace, JetBrains Mono Style")  | [&#128195;](#font-52-129095 "Go to Settings for Font &#129095;")  |
 | 53 |  [Iosevka Slab](https://typeof.net/Iosevka "Download Iosevka Slab - Notes: Monospace, Slab")  | 11 | 15 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://typeof.net/Iosevka "Download Iosevka Slab - Notes: Monospace, Slab")  | [&#128195;](#font-53-129095 "Go to Settings for Font &#129095;")  |
@@ -393,9 +394,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 58 |  [M+ 1m](https://www.fontsquirrel.com/fonts/M-1m "Download M+ 1m")  | 12 | 18 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 3.5 |  [&#129095;](https://www.fontsquirrel.com/fonts/M-1m "Download M+ 1m")  | [&#128195;](#font-58-129095 "Go to Settings for Font &#129095;")  |
 | 59 |  [Menlo](https://github.com/hbin/top-programming-fonts "Download Menlo")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/hbin/top-programming-fonts "Download Menlo")  | [&#128195;](#font-59-129095 "Go to Settings for Font &#129095;")  |
 | 60 |  [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html "Download Mensch - Notes: `Menlo` Tweaked")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://robey.lag.net/2010/06/21/mensch-font.html "Download Mensch - Notes: `Menlo` Tweaked")  | [&#128195;](#font-60-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 61 |  [Meslo LG M](https://github.com/andreberg/Meslo-Font "Download Meslo LG M")  | 10 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/andreberg/Meslo-Font "Download Meslo LG M")  | [&#128195;](#font-61-129095 "Go to Settings for Font &#129095;")  |
 | 62 |  [Meslo LG S](https://github.com/andreberg/Meslo-Font "Download Meslo LG S - Notes: (Meslo LG) S / M / L are the line gap variants in vertical spacing.")  | 10 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 5.0 |  [&#129095;](https://github.com/andreberg/Meslo-Font "Download Meslo LG S - Notes: (Meslo LG) S / M / L are the line gap variants in vertical spacing.")  | [&#128195;](#font-62-129095 "Go to Settings for Font &#129095;")  |
 | 63 |  [Monofur NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur "Download Monofur NF - Notes: `Monofur Nerd Font`: Mono and with font-ligatures versions have the same name")  | 14 | 16 | 0.0 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 3.0 |  [&#129095;](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur "Download Monofur NF - Notes: `Monofur Nerd Font`: Mono and with font-ligatures versions have the same name")  | [&#128195;](#font-63-129095 "Go to Settings for Font &#129095;")  |
@@ -406,9 +407,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 68 |  [NanumGothicCoding](https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12 "Download NanumGothicCoding")  | 11 | 16 | 0.5 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | 4.0 |  [&#129095;](https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12 "Download NanumGothicCoding")  | [&#128195;](#font-68-129095 "Go to Settings for Font &#129095;")  |
 | 69 |  [Noto Mono](https://www.fontsc.com/font/download/noto-mono "Download Noto Mono")  | 11 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.fontsc.com/font/download/noto-mono "Download Noto Mono")  | [&#128195;](#font-69-129095 "Go to Settings for Font &#129095;")  |
 | 70 |  [Office Code Pro](https://github.com/nathco/Office-Code-Pro "Download Office Code Pro - Notes: Fork of `Source Code Pro`")  | 11 | 14 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://github.com/nathco/Office-Code-Pro "Download Office Code Pro - Notes: Fork of `Source Code Pro`")  | [&#128195;](#font-70-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 71 |  [Overpass Mono](https://www.fontsc.com/font/download/overpass-mono "Download Overpass Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.fontsc.com/font/download/overpass-mono "Download Overpass Mono")  | [&#128195;](#font-71-129095 "Go to Settings for Font &#129095;")  |
 | 72 |  [Oxygen Mono](https://www.fontsc.com/font/download/oxygen-mono "Download Oxygen Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.fontsc.com/font/download/oxygen-mono "Download Oxygen Mono")  | [&#128195;](#font-72-129095 "Go to Settings for Font &#129095;")  |
 | 73 |  [PT Mono](https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono "Download PT Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono "Download PT Mono")  | [&#128195;](#font-73-129095 "Go to Settings for Font &#129095;")  |
@@ -419,9 +420,9 @@ Click on the name of font to download, and the script icon to go to optimal sett
 | 78 |  [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro "Download Source Code Pro")  | 12 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 3.0 |  [&#129095;](https://fonts.google.com/specimen/Source+Code+Pro "Download Source Code Pro")  | [&#128195;](#font-78-129095 "Go to Settings for Font &#129095;")  |
 | 79 |  [Space Mono](https://www.fontsc.com/font/download/space-mono "Download Space Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.fontsc.com/font/download/space-mono "Download Space Mono")  | [&#128195;](#font-79-129095 "Go to Settings for Font &#129095;")  |
 | 80 |  [Sudo](https://www.cufonfonts.com/download/font/andale-mono "Download Sudo")  | 14 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 3.5 |  [&#129095;](https://www.cufonfonts.com/download/font/andale-mono "Download Sudo")  | [&#128195;](#font-80-129095 "Go to Settings for Font &#129095;")  |
-||||||||||||
+||||||||||||||
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-||||||||||||
+||||||||||||||
 | 81 |  [Ubuntu Mono](https://www.fontsquirrel.com/fonts/ubuntu-mono "Download Ubuntu Mono - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | 12 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.fontsquirrel.com/fonts/ubuntu-mono "Download Ubuntu Mono - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | [&#128195;](#font-81-129095 "Go to Settings for Font &#129095;")  |
 | 82 |  [Ubuntu Mono - Bront](https://github.com/chrismwendt/bront "Download Ubuntu Mono - Bront - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | 12 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://github.com/chrismwendt/bront "Download Ubuntu Mono - Bront - Notes: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`")  | [&#128195;](#font-82-129095 "Go to Settings for Font &#129095;")  |
 | 83 |  [Victor Mono](https://rubjo.github.io/victor-mono "Download Victor Mono")  | 11 | 16 | 0.4 | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://rubjo.github.io/victor-mono "Download Victor Mono")  | [&#128195;](#font-83-129095 "Go to Settings for Font &#129095;")  |
@@ -453,6 +454,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Andale Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -467,6 +469,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Anonymous Pro",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -483,6 +486,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Antikor Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 
@@ -532,6 +536,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Antikor Text",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 
@@ -583,6 +588,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "AverageMono",
 "editor.fontSize": 12,
 "editor.lineHeight": 18,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -597,6 +603,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "B612 Mono",
 "editor.fontSize": 10,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -613,6 +620,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "CamingoCode",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -627,6 +635,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Cascadia Code",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -643,6 +652,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Cascadia Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -657,6 +667,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Code New Roman",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -673,6 +684,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Consola Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 18,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -687,6 +699,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Consolas Ligaturized v2",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -703,6 +716,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Conta Mono",
 "editor.fontSize": 12,
 "editor.lineHeight": 18,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -717,6 +731,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "CosmicSansNeueMono",
 "editor.fontSize": 12,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -733,6 +748,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Courier Prime Code",
 "editor.fontSize": 12,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -747,6 +763,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "Cousine",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -763,6 +780,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "DM Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -777,6 +795,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "DaddyTimeMono",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -793,6 +812,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "DejaVu Sans Code",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -807,6 +827,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "DejaVu Sans Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -823,6 +844,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 "editor.fontFamily": "DejaVu Sans Mono - Bront",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -842,6 +864,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Droid Sans Mono",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -858,6 +881,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Envy Code R",
 "editor.fontSize": 11,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -872,6 +896,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Fantasque Sans Mono",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -888,6 +913,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Fira Code",
 "editor.fontSize": 10,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -902,6 +928,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Fira Code iScript",
 "editor.fontSize": 11,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 
@@ -958,6 +985,7 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 "editor.fontFamily": "Fira Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -972,6 +1000,7 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 "editor.fontFamily": "FiraFlott",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 
@@ -1028,6 +1057,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 "editor.fontFamily": "Hack",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1042,6 +1072,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 "editor.fontFamily": "Hasklig",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1063,6 +1094,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "Hermit",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1077,6 +1109,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "IBM Plex Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1093,6 +1126,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "Inconsolata",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.2,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1107,6 +1141,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "Input Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1123,6 +1158,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "Input Mono Condensed",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1137,6 +1173,7 @@ Hasklig: Fork of `Source Code Pro`
 "editor.fontFamily": "Iosevka",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1158,6 +1195,7 @@ Iosevka: Monospace, Default - Many version of this font by Key Shape, Spacing an
 "editor.fontFamily": "Iosevka Curly",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1177,6 +1215,7 @@ Iosevka Curly: Monospace, Curly.
 "editor.fontFamily": "Iosevka Curly Slab",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1198,6 +1237,7 @@ Iosevka Curly Slab: Monospace, Curly Slab
 "editor.fontFamily": "Iosevka SS01",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1217,6 +1257,7 @@ Iosevka SS01: Monospace, Andale Mono Style
 "editor.fontFamily": "Iosevka SS02",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1238,6 +1279,7 @@ Iosevka SS02: Monospace, Anonymous Pro Style
 "editor.fontFamily": "Iosevka SS03",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1257,6 +1299,7 @@ Iosevka SS03: Monospace, Consolas Style
 "editor.fontFamily": "Iosevka SS04",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1278,6 +1321,7 @@ Iosevka SS04: Monospace, Menlo Style
 "editor.fontFamily": "Iosevka SS05",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1297,6 +1341,7 @@ Iosevka SS05: Monospace, Fira Mono Style
 "editor.fontFamily": "Iosevka SS06",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1318,6 +1363,7 @@ Iosevka SS06: Monospace, Liberation Mono Style
 "editor.fontFamily": "Iosevka SS07",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1337,6 +1383,7 @@ Iosevka SS07: Monospace, Monaco Style
 "editor.fontFamily": "Iosevka SS08",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1358,6 +1405,7 @@ Iosevka SS08: Monospace, Pragmata Pro Style
 "editor.fontFamily": "Iosevka SS09",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1377,6 +1425,7 @@ Iosevka SS09: Monospace, Source Code Pro Style
 "editor.fontFamily": "Iosevka SS10",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1398,6 +1447,7 @@ Iosevka SS10: Monospace, Envy Code R Style
 "editor.fontFamily": "Iosevka SS11",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1417,6 +1467,7 @@ Iosevka SS11: Monospace, X Windows Fixed Style
 "editor.fontFamily": "Iosevka SS12",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1438,6 +1489,7 @@ Iosevka SS12: Monospace, Ubuntu Mono Style
 "editor.fontFamily": "Iosevka SS13",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1457,6 +1509,7 @@ Iosevka SS13: Monospace, Lucida Style
 "editor.fontFamily": "Iosevka SS14",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1478,6 +1531,7 @@ Iosevka SS14: Monospace, JetBrains Mono Style
 "editor.fontFamily": "Iosevka Slab",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1497,6 +1551,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1513,6 +1568,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "Lekton",
 "editor.fontSize": 14,
 "editor.lineHeight": 18,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1527,6 +1583,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "Liberation Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1543,6 +1600,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "Lilex",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1557,6 +1615,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "M+ 1m",
 "editor.fontSize": 12,
 "editor.lineHeight": 18,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1573,6 +1632,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "Menlo",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1587,6 +1647,7 @@ Iosevka Slab: Monospace, Slab
 "editor.fontFamily": "Mensch",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1608,6 +1669,7 @@ Mensch: `Menlo` Tweaked
 "editor.fontFamily": "Meslo LG M",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1622,6 +1684,7 @@ Mensch: `Menlo` Tweaked
 "editor.fontFamily": "Meslo LG S",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1643,6 +1706,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 "editor.fontFamily": "Monofur NF",
 "editor.fontSize": 14,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1662,6 +1726,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 "editor.fontFamily": "Monoid",
 "editor.fontSize": 10,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1678,6 +1743,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 "editor.fontFamily": "Monoisome",
 "editor.fontSize": 10,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": true,
 // --- FONT SETTINGS :: END
@@ -1697,6 +1763,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 "editor.fontFamily": "Mononoki",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1713,6 +1780,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 "editor.fontFamily": "NK57 Monospace",
 "editor.fontSize": 10,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1727,6 +1795,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 "editor.fontFamily": "NanumGothicCoding",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.5,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1743,6 +1812,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 "editor.fontFamily": "Noto Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1757,6 +1827,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 "editor.fontFamily": "Office Code Pro",
 "editor.fontSize": 11,
 "editor.lineHeight": 14,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1778,6 +1849,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Overpass Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1792,6 +1864,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Oxygen Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1808,6 +1881,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "PT Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1822,6 +1896,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "ProggyVector",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1838,6 +1913,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Roboto Mono",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.2,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1852,6 +1928,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "SF Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1868,6 +1945,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Sometype Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1882,6 +1960,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Source Code Pro",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1898,6 +1977,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Space Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 15,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1912,6 +1992,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Sudo",
 "editor.fontSize": 14,
 "editor.lineHeight": 16,
+"editor.fontWeight": "400",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1928,6 +2009,7 @@ Office Code Pro: Fork of `Source Code Pro`
 "editor.fontFamily": "Ubuntu Mono",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1947,6 +2029,7 @@ Ubuntu Mono: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Ubuntu Mono - Bront",
 "editor.fontSize": 12,
 "editor.lineHeight": 16,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -1968,6 +2051,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "Victor Mono",
 "editor.fontSize": 11,
 "editor.lineHeight": 16,
+"editor.fontWeight": "300",
 "editor.letterSpacing": 0.4,
 "editor.fontLigatures": true,
 
@@ -2017,6 +2101,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 "editor.fontFamily": "iA Writer Mono S",
 "editor.fontSize": 10,
 "editor.lineHeight": 14,
+"editor.fontWeight": "500",
 "editor.letterSpacing": 0.0,
 "editor.fontLigatures": false,
 // --- FONT SETTINGS :: END
@@ -2076,7 +2161,7 @@ See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.z
 
 
 
-**Version 1.1.152**
+**Version 1.1.153**
 - [`Theme`] Added `tab.lastPinnedBorder` color (VSCode 1.50);
 - [`Theme`] Fix some UI and Token colors;
 - [`Readme`] Fix some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
