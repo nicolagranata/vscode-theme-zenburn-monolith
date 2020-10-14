@@ -122,32 +122,32 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Goldstone** (10 skins): Deep blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-morion-preview.png" title="Go to Zenburn Monolith - Goldstone - Morion" target="github"><img src="./_gfx/zenburn-monolith-goldstone-morion-preview.png"  alt="Zenburn Monolith - Goldstone - Morion"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-aquamarine-preview.png" title="Go to Zenburn Monolith - Goldstone - Aquamarine" target="github"><img src="./_gfx/zenburn-monolith-goldstone-aquamarine-preview.png"  alt="Zenburn Monolith - Goldstone - Aquamarine"></a>
 </center>
 
-<div>Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-morion-preview.png" title="Go to Zenburn Monolith - Goldstone - Morion" target="github">Morion</a> 
+<div>Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-aquamarine-preview.png" title="Go to Zenburn Monolith - Goldstone - Aquamarine" target="github">Aquamarine</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-amethyst-preview.png" title="Go to Zenburn Monolith - Goldstone - Amethyst" target="github"><img src="./_gfx/zenburn-monolith-goldstone-amethyst-preview.png"  alt="Zenburn Monolith - Goldstone - Amethyst"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-aquamarine-preview.png" title="Go to Zenburn Monolith - Goldstone - Aquamarine" target="github"><img src="./_gfx/zenburn-monolith-goldstone-aquamarine-preview.png"  alt="Zenburn Monolith - Goldstone - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-beryl-preview.png" title="Go to Zenburn Monolith - Goldstone - Beryl" target="github"><img src="./_gfx/zenburn-monolith-goldstone-beryl-preview.png"  alt="Zenburn Monolith - Goldstone - Beryl"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-howlite-preview.png" title="Go to Zenburn Monolith - Goldstone - Howlite" target="github"><img src="./_gfx/zenburn-monolith-goldstone-howlite-preview.png"  alt="Zenburn Monolith - Goldstone - Howlite"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-limestone-preview.png" title="Go to Zenburn Monolith - Goldstone - Limestone" target="github"><img src="./_gfx/zenburn-monolith-goldstone-limestone-preview.png"  alt="Zenburn Monolith - Goldstone - Limestone"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-amethyst-preview.png" title="Go to Zenburn Monolith - Goldstone - Amethyst" target="github">Amethyst</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-aquamarine-preview.png" title="Go to Zenburn Monolith - Goldstone - Aquamarine" target="github">Aquamarine</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-beryl-preview.png" title="Go to Zenburn Monolith - Goldstone - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-howlite-preview.png" title="Go to Zenburn Monolith - Goldstone - Howlite" target="github">Howlite</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-limestone-preview.png" title="Go to Zenburn Monolith - Goldstone - Limestone" target="github">Limestone</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-limestone-preview.png" title="Go to Zenburn Monolith - Goldstone - Limestone" target="github"><img src="./_gfx/zenburn-monolith-goldstone-limestone-preview.png"  alt="Zenburn Monolith - Goldstone - Limestone"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-morion-preview.png" title="Go to Zenburn Monolith - Goldstone - Morion" target="github"><img src="./_gfx/zenburn-monolith-goldstone-morion-preview.png"  alt="Zenburn Monolith - Goldstone - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-obsidian-preview.png" title="Go to Zenburn Monolith - Goldstone - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-goldstone-obsidian-preview.png"  alt="Zenburn Monolith - Goldstone - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-quartz-preview.png" title="Go to Zenburn Monolith - Goldstone - Quartz" target="github"><img src="./_gfx/zenburn-monolith-goldstone-quartz-preview.png"  alt="Zenburn Monolith - Goldstone - Quartz"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-sulfur-preview.png" title="Go to Zenburn Monolith - Goldstone - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-goldstone-sulfur-preview.png"  alt="Zenburn Monolith - Goldstone - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-limestone-preview.png" title="Go to Zenburn Monolith - Goldstone - Limestone" target="github">Limestone</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-morion-preview.png" title="Go to Zenburn Monolith - Goldstone - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-obsidian-preview.png" title="Go to Zenburn Monolith - Goldstone - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-quartz-preview.png" title="Go to Zenburn Monolith - Goldstone - Quartz" target="github">Quartz</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Goldstone - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-goldstone-sulfur-preview.png" title="Go to Zenburn Monolith - Goldstone - Sulfur" target="github">Sulfur</a> 
@@ -164,16 +164,16 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Heliotrope** (10 skins): Petrol Blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png"  alt="Zenburn Monolith - Heliotrope - Obsidian"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-limestone-preview.png"  alt="Zenburn Monolith - Heliotrope - Limestone"></a>
 </center>
 
-<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github">Obsidian</a> 
+<div>Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-amethyst-preview.png" title="Go to Zenburn Monolith - Heliotrope - Amethyst" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-amethyst-preview.png"  alt="Zenburn Monolith - Heliotrope - Amethyst"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-aquamarine-preview.png" title="Go to Zenburn Monolith - Heliotrope - Aquamarine" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-aquamarine-preview.png"  alt="Zenburn Monolith - Heliotrope - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-beryl-preview.png" title="Go to Zenburn Monolith - Heliotrope - Beryl" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-beryl-preview.png"  alt="Zenburn Monolith - Heliotrope - Beryl"></a>
@@ -184,13 +184,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-beryl-preview.png" title="Go to Zenburn Monolith - Heliotrope - Beryl" target="github">Beryl</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-howlite-preview.png" title="Go to Zenburn Monolith - Heliotrope - Howlite" target="github">Howlite</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-limestone-preview.png"  alt="Zenburn Monolith - Heliotrope - Limestone"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-morion-preview.png"  alt="Zenburn Monolith - Heliotrope - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-morion-preview.png"  alt="Zenburn Monolith - Heliotrope - Morion"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png"  alt="Zenburn Monolith - Heliotrope - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-quartz-preview.png" title="Go to Zenburn Monolith - Heliotrope - Quartz" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-quartz-preview.png"  alt="Zenburn Monolith - Heliotrope - Quartz"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-sulfur-preview.png" title="Go to Zenburn Monolith - Heliotrope - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-heliotrope-sulfur-preview.png"  alt="Zenburn Monolith - Heliotrope - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-limestone-preview.png" title="Go to Zenburn Monolith - Heliotrope - Limestone" target="github">Limestone</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-morion-preview.png" title="Go to Zenburn Monolith - Heliotrope - Morion" target="github">Morion</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-obsidian-preview.png" title="Go to Zenburn Monolith - Heliotrope - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-quartz-preview.png" title="Go to Zenburn Monolith - Heliotrope - Quartz" target="github">Quartz</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Heliotrope - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-heliotrope-sulfur-preview.png" title="Go to Zenburn Monolith - Heliotrope - Sulfur" target="github">Sulfur</a> 
 </td></tr>
@@ -215,7 +215,7 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 
 </table>
 </center>
@@ -224,16 +224,16 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Onyx** (10 skins): Flat Grayed UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github"><img src="./_gfx/zenburn-monolith-onyx-quartz-preview.png"  alt="Zenburn Monolith - Onyx - Quartz"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github"><img src="./_gfx/zenburn-monolith-onyx-morion-preview.png"  alt="Zenburn Monolith - Onyx - Morion"></a>
 </center>
 
-<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github">Quartz</a> 
+<div>Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github">Morion</a> 
 </div>
 
 
 
 <center>
-<table>
+<table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-amethyst-preview.png" title="Go to Zenburn Monolith - Onyx - Amethyst" target="github"><img src="./_gfx/zenburn-monolith-onyx-amethyst-preview.png"  alt="Zenburn Monolith - Onyx - Amethyst"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-aquamarine-preview.png" title="Go to Zenburn Monolith - Onyx - Aquamarine" target="github"><img src="./_gfx/zenburn-monolith-onyx-aquamarine-preview.png"  alt="Zenburn Monolith - Onyx - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-beryl-preview.png" title="Go to Zenburn Monolith - Onyx - Beryl" target="github"><img src="./_gfx/zenburn-monolith-onyx-beryl-preview.png"  alt="Zenburn Monolith - Onyx - Beryl"></a>
@@ -245,13 +245,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-howlite-preview.png" title="Go to Zenburn Monolith - Onyx - Howlite" target="github">Howlite</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-limestone-preview.png" title="Go to Zenburn Monolith - Onyx - Limestone" target="github"><img src="./_gfx/zenburn-monolith-onyx-limestone-preview.png"  alt="Zenburn Monolith - Onyx - Limestone"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github"><img src="./_gfx/zenburn-monolith-onyx-morion-preview.png"  alt="Zenburn Monolith - Onyx - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-obsidian-preview.png" title="Go to Zenburn Monolith - Onyx - Obsidian" target="github"><img src="./_gfx/zenburn-monolith-onyx-obsidian-preview.png"  alt="Zenburn Monolith - Onyx - Obsidian"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github"><img src="./_gfx/zenburn-monolith-onyx-quartz-preview.png"  alt="Zenburn Monolith - Onyx - Quartz"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github"><img src="./_gfx/zenburn-monolith-onyx-sulfur-preview.png"  alt="Zenburn Monolith - Onyx - Sulfur"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-limestone-preview.png" title="Go to Zenburn Monolith - Onyx - Limestone" target="github">Limestone</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-morion-preview.png" title="Go to Zenburn Monolith - Onyx - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-obsidian-preview.png" title="Go to Zenburn Monolith - Onyx - Obsidian" target="github">Obsidian</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-quartz-preview.png" title="Go to Zenburn Monolith - Onyx - Quartz" target="github">Quartz</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Onyx - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-sulfur-preview.png" title="Go to Zenburn Monolith - Onyx - Sulfur" target="github">Sulfur</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-monolith/tree/master/_gfx/zenburn-monolith-onyx-turquenite-preview.png" title="Go to Zenburn Monolith - Onyx - Turquenite" target="github"><img src="./_gfx/zenburn-monolith-onyx-turquenite-preview.png"  alt="Zenburn Monolith - Onyx - Turquenite"></a>
@@ -318,7 +318,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 
 
 |**N.**|<span title="Font Name and Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#127462;&#8259;&#127487;</span> |<span title=" Minimum Size recommended for good Readability" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128474;</span> |<span title="Font Line Height Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8683;</span> |<span title="Font Letter Spacing Preset" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8700;</span> |<span title="Font has Ligatures" style="font-weight:normal;font-size:130%;line-height:100%;" >&#8655;</span> |<span title="Font has Script Variant for Italic" style="font-weight:normal;font-size:130%;line-height:100%;" >&#119998;</span> |<span title="Font is Serif" style="font-weight:normal;font-size:130%;line-height:100%;" >&#65332;</span> |<span title="Font has Zero Slashed or Zero Dotted" style="font-weight:bold;" >&Oslash;</span> |<span title="Font Readability at Size 10px*" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128065;</span> |<span title="Font Download" style="font-weight:normal;font-size:130%;line-height:100%;" >&#129095;</span> |<span title="Go to Settings for Font" style="font-weight:normal;font-size:130%;line-height:100%;" >&#128195;</span> |
-|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|---|---|
+|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|---|
 | 01 |  [Andale Mono](https://www.cufonfonts.com/download/font/andale-mono "Download Andale Mono")  | 11 | 16 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.cufonfonts.com/download/font/andale-mono "Download Andale Mono")  | [&#128195;](#font-01-129095 "Go to Settings for Font &#129095;")  |
 | 02 |  [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro "Download Anonymous Pro")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:ForestGreen;">&#9679;</span> | 4.5 |  [&#129095;](https://www.marksimonson.com/fonts/view/anonymous-pro "Download Anonymous Pro")  | [&#128195;](#font-02-129095 "Go to Settings for Font &#129095;")  |
 | 03 |  [Antikor Mono](https://www.cufonfonts.com/download/font/antikor-mono "Download Antikor Mono")  | 11 | 15 | 0.0 | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | <span style="color:#cc0000;"></span> | <span style="color:ForestGreen;">&#9679;</span> | 4.0 |  [&#129095;](https://www.cufonfonts.com/download/font/antikor-mono "Download Antikor Mono")  | [&#128195;](#font-03-129095 "Go to Settings for Font &#129095;")  |
@@ -2161,7 +2161,7 @@ See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.z
 
 
 
-**Version 1.1.153**
+**Version 1.1.155**
 - [`Theme`] Added `tab.lastPinnedBorder` color (VSCode 1.50);
 - [`Theme`] Fix some UI and Token colors;
 - [`Readme`] Fix some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
