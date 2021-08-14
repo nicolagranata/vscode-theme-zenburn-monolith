@@ -1,0 +1,587 @@
+{
+    "version": "1.1.195",
+    "publisher": "nicola-granata",
+    "license": "MIT",
+    "schema": "vscode://schemas/color-theme",
+    "author": {
+        "name": "Nicola Granata",
+        "email": "vscode.extensions@daemoncms.com",
+        "url": "https://github.com/nicolagranata"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "displayName": "Zenburn Monolith Theme",
+    "icon": "_gfx/zenburn-monolith-icon.png",
+    "description": "Zenburn token colors in different intensities and on different dark backgrounds to reduce eye strain.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicolagranata/vscode-theme-zenburn-monolith.git",
+        "clean_url": "https://github.com/nicolagranata/vscode-theme-zenburn-monolith"
+    },
+    "keywords": [
+        "zenburn",
+        "dark background",
+        "dark theme",
+        "low blue light",
+        "low contrast",
+        "json",
+        "css",
+        "eye strain",
+        "html",
+        "php",
+        "javascript"
+    ],
+    "galleryBanner": {
+        "color": "#191d1f",
+        "theme": "dark"
+    },
+    "name": "zenburn-monolith",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zenburn Monolith - Goldstone - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-amethyst",
+                "path": "./themes/zenburn-monolith-goldstone-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-aquamarine",
+                "path": "./themes/zenburn-monolith-goldstone-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-beryl",
+                "path": "./themes/zenburn-monolith-goldstone-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hearthstone",
+                "path": "./themes/zenburn-monolith-goldstone-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-howlite",
+                "path": "./themes/zenburn-monolith-goldstone-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-limestone",
+                "path": "./themes/zenburn-monolith-goldstone-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-morion",
+                "path": "./themes/zenburn-monolith-goldstone-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-obsidian",
+                "path": "./themes/zenburn-monolith-goldstone-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-quartz",
+                "path": "./themes/zenburn-monolith-goldstone-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-sulfur",
+                "path": "./themes/zenburn-monolith-goldstone-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-turquenite",
+                "path": "./themes/zenburn-monolith-goldstone-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-amethyst",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-aquamarine",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-beryl",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-hearthstone",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-howlite",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-limestone",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-morion",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-obsidian",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-quartz",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-sulfur",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Goldstone HCUI - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-goldstone-hcui-turquenite",
+                "path": "./themes/zenburn-monolith-goldstone-hcui-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-amethyst",
+                "path": "./themes/zenburn-monolith-heliotrope-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-aquamarine",
+                "path": "./themes/zenburn-monolith-heliotrope-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-beryl",
+                "path": "./themes/zenburn-monolith-heliotrope-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hearthstone",
+                "path": "./themes/zenburn-monolith-heliotrope-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-howlite",
+                "path": "./themes/zenburn-monolith-heliotrope-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-limestone",
+                "path": "./themes/zenburn-monolith-heliotrope-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-morion",
+                "path": "./themes/zenburn-monolith-heliotrope-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-obsidian",
+                "path": "./themes/zenburn-monolith-heliotrope-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-quartz",
+                "path": "./themes/zenburn-monolith-heliotrope-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-sulfur",
+                "path": "./themes/zenburn-monolith-heliotrope-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-turquenite",
+                "path": "./themes/zenburn-monolith-heliotrope-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-amethyst",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-aquamarine",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-beryl",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-hearthstone",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-howlite",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-limestone",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-morion",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-obsidian",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-quartz",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-sulfur",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Heliotrope HCUI - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-heliotrope-hcui-turquenite",
+                "path": "./themes/zenburn-monolith-heliotrope-hcui-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Low Blue - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-lowblue-obsidian",
+                "path": "./themes/zenburn-monolith-lowblue-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Low Blue HCUI - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-lowblue-hcui-obsidian",
+                "path": "./themes/zenburn-monolith-lowblue-hcui-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-amethyst",
+                "path": "./themes/zenburn-monolith-onyx-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-aquamarine",
+                "path": "./themes/zenburn-monolith-onyx-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-beryl",
+                "path": "./themes/zenburn-monolith-onyx-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hearthstone",
+                "path": "./themes/zenburn-monolith-onyx-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-howlite",
+                "path": "./themes/zenburn-monolith-onyx-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-limestone",
+                "path": "./themes/zenburn-monolith-onyx-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-morion",
+                "path": "./themes/zenburn-monolith-onyx-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-obsidian",
+                "path": "./themes/zenburn-monolith-onyx-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-quartz",
+                "path": "./themes/zenburn-monolith-onyx-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-sulfur",
+                "path": "./themes/zenburn-monolith-onyx-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-turquenite",
+                "path": "./themes/zenburn-monolith-onyx-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-amethyst",
+                "path": "./themes/zenburn-monolith-onyx-hcui-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-aquamarine",
+                "path": "./themes/zenburn-monolith-onyx-hcui-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-beryl",
+                "path": "./themes/zenburn-monolith-onyx-hcui-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-hearthstone",
+                "path": "./themes/zenburn-monolith-onyx-hcui-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-howlite",
+                "path": "./themes/zenburn-monolith-onyx-hcui-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-limestone",
+                "path": "./themes/zenburn-monolith-onyx-hcui-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-morion",
+                "path": "./themes/zenburn-monolith-onyx-hcui-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-obsidian",
+                "path": "./themes/zenburn-monolith-onyx-hcui-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-quartz",
+                "path": "./themes/zenburn-monolith-onyx-hcui-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-sulfur",
+                "path": "./themes/zenburn-monolith-onyx-hcui-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Onyx HCUI - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-onyx-hcui-turquenite",
+                "path": "./themes/zenburn-monolith-onyx-hcui-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-amethyst",
+                "path": "./themes/zenburn-monolith-opal-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-aquamarine",
+                "path": "./themes/zenburn-monolith-opal-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-beryl",
+                "path": "./themes/zenburn-monolith-opal-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hearthstone",
+                "path": "./themes/zenburn-monolith-opal-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-howlite",
+                "path": "./themes/zenburn-monolith-opal-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-limestone",
+                "path": "./themes/zenburn-monolith-opal-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-morion",
+                "path": "./themes/zenburn-monolith-opal-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-obsidian",
+                "path": "./themes/zenburn-monolith-opal-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-quartz",
+                "path": "./themes/zenburn-monolith-opal-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-sulfur",
+                "path": "./themes/zenburn-monolith-opal-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-turquenite",
+                "path": "./themes/zenburn-monolith-opal-turquenite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Amethyst",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-amethyst",
+                "path": "./themes/zenburn-monolith-opal-hcui-amethyst-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Aquamarine",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-aquamarine",
+                "path": "./themes/zenburn-monolith-opal-hcui-aquamarine-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Beryl",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-beryl",
+                "path": "./themes/zenburn-monolith-opal-hcui-beryl-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Hearthstone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-hearthstone",
+                "path": "./themes/zenburn-monolith-opal-hcui-hearthstone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Howlite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-howlite",
+                "path": "./themes/zenburn-monolith-opal-hcui-howlite-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Limestone",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-limestone",
+                "path": "./themes/zenburn-monolith-opal-hcui-limestone-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Morion",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-morion",
+                "path": "./themes/zenburn-monolith-opal-hcui-morion-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Obsidian",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-obsidian",
+                "path": "./themes/zenburn-monolith-opal-hcui-obsidian-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Quartz",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-quartz",
+                "path": "./themes/zenburn-monolith-opal-hcui-quartz-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Sulfur",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-sulfur",
+                "path": "./themes/zenburn-monolith-opal-hcui-sulfur-color-theme.json"
+            },
+            {
+                "label": "Zenburn Monolith - Opal HCUI - Turquenite",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-monolith-opal-hcui-turquenite",
+                "path": "./themes/zenburn-monolith-opal-hcui-turquenite-color-theme.json"
+            }
+        ]
+    }
+}
