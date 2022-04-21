@@ -77,7 +77,7 @@ Personally, I think that if your monitor has `sRGB` capabilities, the `Standard`
 
 # Changelog for Zenburn Monolith Theme
 
-> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:31:55
+> Engine: **VSCode Themes Master** v. 1.12.254 - Update: 2022-04-21 16:33:13
 
 > Note 1: This Changelog is for the whole **Monolith Suite**, not just for this specific Theme.
 
@@ -198,9 +198,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Goldstone - Obsidian](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png)](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png)
+[![Zenburn Monolith - Goldstone - Quartz](./_gfx/zenburn-monolith-goldstone-quartz-preview.png)](./_gfx/zenburn-monolith-goldstone-quartz-preview.png)
 
-[Obsidian](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png) <br>Goldstone
+[Quartz](./_gfx/zenburn-monolith-goldstone-quartz-preview.png) <br>Goldstone
 
 
 <table>
@@ -251,9 +251,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Monolith - Goldstone - Quartz](./_gfx/zenburn-monolith-goldstone-quartz-preview.png)](./_gfx/zenburn-monolith-goldstone-quartz-preview.png)
+[![Zenburn Monolith - Goldstone - Obsidian](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png)](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png)
 
-[Quartz](./_gfx/zenburn-monolith-goldstone-quartz-preview.png) <br>Goldstone
+[Obsidian](./_gfx/zenburn-monolith-goldstone-obsidian-preview.png) <br>Goldstone
 </td>
 </tr>
 <tr>
@@ -296,9 +296,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Goldstone HCUI - Morion](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png)](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png)
+[![Zenburn Monolith - Goldstone HCUI - Howlite](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png)](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png)
 
-[Morion](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png) <br>Goldstone HCUI
+[Howlite](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png) <br>Goldstone HCUI
 
 
 <table>
@@ -331,15 +331,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Monolith - Goldstone HCUI - Howlite](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png)](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png)
-
-[Howlite](./_gfx/zenburn-monolith-goldstone-hcui-howlite-preview.png) <br>Goldstone HCUI
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Monolith - Goldstone HCUI - Limestone](./_gfx/zenburn-monolith-goldstone-hcui-limestone-preview.png)](./_gfx/zenburn-monolith-goldstone-hcui-limestone-preview.png)
 
 [Limestone](./_gfx/zenburn-monolith-goldstone-hcui-limestone-preview.png) <br>Goldstone HCUI
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Goldstone HCUI - Morion](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png)](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png)
+
+[Morion](./_gfx/zenburn-monolith-goldstone-hcui-morion-preview.png) <br>Goldstone HCUI
 </td>
 <td align="center" valign="top" >
 
@@ -394,9 +394,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Heliotrope - Howlite](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png)](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png)
+[![Zenburn Monolith - Heliotrope - Quartz](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png)](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png)
 
-[Howlite](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png) <br>Heliotrope
+[Quartz](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png) <br>Heliotrope
 
 
 <table>
@@ -429,6 +429,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
+[![Zenburn Monolith - Heliotrope - Howlite](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png)](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png)
+
+[Howlite](./_gfx/zenburn-monolith-heliotrope-howlite-preview.png) <br>Heliotrope
+</td>
+<td align="center" valign="top" >
+
 [![Zenburn Monolith - Heliotrope - Limestone](./_gfx/zenburn-monolith-heliotrope-limestone-preview.png)](./_gfx/zenburn-monolith-heliotrope-limestone-preview.png)
 
 [Limestone](./_gfx/zenburn-monolith-heliotrope-limestone-preview.png) <br>Heliotrope
@@ -444,12 +450,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Monolith - Heliotrope - Obsidian](./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png)](./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-monolith-heliotrope-obsidian-preview.png) <br>Heliotrope
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Monolith - Heliotrope - Quartz](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png)](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png)
-
-[Quartz](./_gfx/zenburn-monolith-heliotrope-quartz-preview.png) <br>Heliotrope
 </td>
 </tr>
 <tr>
@@ -492,9 +492,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Heliotrope HCUI - Quartz](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png)
+[![Zenburn Monolith - Heliotrope HCUI - Howlite](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png)
 
-[Quartz](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png) <br>Heliotrope HCUI
+[Howlite](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png) <br>Heliotrope HCUI
 
 
 <table>
@@ -527,12 +527,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Monolith - Heliotrope HCUI - Howlite](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png)
-
-[Howlite](./_gfx/zenburn-monolith-heliotrope-hcui-howlite-preview.png) <br>Heliotrope HCUI
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Monolith - Heliotrope HCUI - Limestone](./_gfx/zenburn-monolith-heliotrope-hcui-limestone-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-limestone-preview.png)
 
 [Limestone](./_gfx/zenburn-monolith-heliotrope-hcui-limestone-preview.png) <br>Heliotrope HCUI
@@ -548,6 +542,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Monolith - Heliotrope HCUI - Obsidian](./_gfx/zenburn-monolith-heliotrope-hcui-obsidian-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-monolith-heliotrope-hcui-obsidian-preview.png) <br>Heliotrope HCUI
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Heliotrope HCUI - Quartz](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png)](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png)
+
+[Quartz](./_gfx/zenburn-monolith-heliotrope-hcui-quartz-preview.png) <br>Heliotrope HCUI
 </td>
 </tr>
 <tr>
@@ -638,9 +638,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Onyx - Sulfur](./_gfx/zenburn-monolith-onyx-sulfur-preview.png)](./_gfx/zenburn-monolith-onyx-sulfur-preview.png)
+[![Zenburn Monolith - Onyx - Beryl](./_gfx/zenburn-monolith-onyx-beryl-preview.png)](./_gfx/zenburn-monolith-onyx-beryl-preview.png)
 
-[Sulfur](./_gfx/zenburn-monolith-onyx-sulfur-preview.png) <br>Onyx
+[Beryl](./_gfx/zenburn-monolith-onyx-beryl-preview.png) <br>Onyx
 
 
 <table>
@@ -659,24 +659,18 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Monolith - Onyx - Beryl](./_gfx/zenburn-monolith-onyx-beryl-preview.png)](./_gfx/zenburn-monolith-onyx-beryl-preview.png)
-
-[Beryl](./_gfx/zenburn-monolith-onyx-beryl-preview.png) <br>Onyx
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Monolith - Onyx - Hearthstone](./_gfx/zenburn-monolith-onyx-hearthstone-preview.png)](./_gfx/zenburn-monolith-onyx-hearthstone-preview.png)
 
 [Hearthstone](./_gfx/zenburn-monolith-onyx-hearthstone-preview.png) <br>Onyx
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx - Howlite](./_gfx/zenburn-monolith-onyx-howlite-preview.png)](./_gfx/zenburn-monolith-onyx-howlite-preview.png)
 
 [Howlite](./_gfx/zenburn-monolith-onyx-howlite-preview.png) <br>Onyx
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx - Limestone](./_gfx/zenburn-monolith-onyx-limestone-preview.png)](./_gfx/zenburn-monolith-onyx-limestone-preview.png)
@@ -695,13 +689,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Obsidian](./_gfx/zenburn-monolith-onyx-obsidian-preview.png) <br>Onyx
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx - Quartz](./_gfx/zenburn-monolith-onyx-quartz-preview.png)](./_gfx/zenburn-monolith-onyx-quartz-preview.png)
 
 [Quartz](./_gfx/zenburn-monolith-onyx-quartz-preview.png) <br>Onyx
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Onyx - Sulfur](./_gfx/zenburn-monolith-onyx-sulfur-preview.png)](./_gfx/zenburn-monolith-onyx-sulfur-preview.png)
+
+[Sulfur](./_gfx/zenburn-monolith-onyx-sulfur-preview.png) <br>Onyx
 </td>
 <td align="center" valign="top" >
 
@@ -736,13 +736,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Onyx HCUI - Amethyst](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png)
+[![Zenburn Monolith - Onyx HCUI - Morion](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png)
 
-[Amethyst](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png) <br>Onyx HCUI
+[Morion](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png) <br>Onyx HCUI
 
 
 <table>
 <tr>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Onyx HCUI - Amethyst](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png)
+
+[Amethyst](./_gfx/zenburn-monolith-onyx-hcui-amethyst-preview.png) <br>Onyx HCUI
+</td>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx HCUI - Aquamarine](./_gfx/zenburn-monolith-onyx-hcui-aquamarine-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-aquamarine-preview.png)
@@ -761,25 +767,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Hearthstone](./_gfx/zenburn-monolith-onyx-hcui-hearthstone-preview.png) <br>Onyx HCUI
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx HCUI - Howlite](./_gfx/zenburn-monolith-onyx-hcui-howlite-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-howlite-preview.png)
 
 [Howlite](./_gfx/zenburn-monolith-onyx-hcui-howlite-preview.png) <br>Onyx HCUI
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Onyx HCUI - Limestone](./_gfx/zenburn-monolith-onyx-hcui-limestone-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-limestone-preview.png)
 
 [Limestone](./_gfx/zenburn-monolith-onyx-hcui-limestone-preview.png) <br>Onyx HCUI
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Monolith - Onyx HCUI - Morion](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png)](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png)
-
-[Morion](./_gfx/zenburn-monolith-onyx-hcui-morion-preview.png) <br>Onyx HCUI
 </td>
 <td align="center" valign="top" >
 
@@ -834,9 +834,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Opal - Obsidian](./_gfx/zenburn-monolith-opal-obsidian-preview.png)](./_gfx/zenburn-monolith-opal-obsidian-preview.png)
+[![Zenburn Monolith - Opal - Aquamarine](./_gfx/zenburn-monolith-opal-aquamarine-preview.png)](./_gfx/zenburn-monolith-opal-aquamarine-preview.png)
 
-[Obsidian](./_gfx/zenburn-monolith-opal-obsidian-preview.png) <br>Opal
+[Aquamarine](./_gfx/zenburn-monolith-opal-aquamarine-preview.png) <br>Opal
 
 
 <table>
@@ -846,12 +846,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Monolith - Opal - Amethyst](./_gfx/zenburn-monolith-opal-amethyst-preview.png)](./_gfx/zenburn-monolith-opal-amethyst-preview.png)
 
 [Amethyst](./_gfx/zenburn-monolith-opal-amethyst-preview.png) <br>Opal
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Monolith - Opal - Aquamarine](./_gfx/zenburn-monolith-opal-aquamarine-preview.png)](./_gfx/zenburn-monolith-opal-aquamarine-preview.png)
-
-[Aquamarine](./_gfx/zenburn-monolith-opal-aquamarine-preview.png) <br>Opal
 </td>
 <td align="center" valign="top" >
 
@@ -865,14 +859,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Hearthstone](./_gfx/zenburn-monolith-opal-hearthstone-preview.png) <br>Opal
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Opal - Howlite](./_gfx/zenburn-monolith-opal-howlite-preview.png)](./_gfx/zenburn-monolith-opal-howlite-preview.png)
 
 [Howlite](./_gfx/zenburn-monolith-opal-howlite-preview.png) <br>Opal
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Opal - Limestone](./_gfx/zenburn-monolith-opal-limestone-preview.png)](./_gfx/zenburn-monolith-opal-limestone-preview.png)
@@ -884,6 +878,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Monolith - Opal - Morion](./_gfx/zenburn-monolith-opal-morion-preview.png)](./_gfx/zenburn-monolith-opal-morion-preview.png)
 
 [Morion](./_gfx/zenburn-monolith-opal-morion-preview.png) <br>Opal
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Opal - Obsidian](./_gfx/zenburn-monolith-opal-obsidian-preview.png)](./_gfx/zenburn-monolith-opal-obsidian-preview.png)
+
+[Obsidian](./_gfx/zenburn-monolith-opal-obsidian-preview.png) <br>Opal
 </td>
 <td align="center" valign="top" >
 
@@ -932,19 +932,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Monolith - Opal HCUI - Hearthstone](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png)](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png)
+[![Zenburn Monolith - Opal HCUI - Amethyst](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png)](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png)
 
-[Hearthstone](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png) <br>Opal HCUI
+[Amethyst](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png) <br>Opal HCUI
 
 
 <table>
 <tr>
-<td align="center" valign="top" >
-
-[![Zenburn Monolith - Opal HCUI - Amethyst](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png)](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png)
-
-[Amethyst](./_gfx/zenburn-monolith-opal-hcui-amethyst-preview.png) <br>Opal HCUI
-</td>
 <td align="center" valign="top" >
 
 [![Zenburn Monolith - Opal HCUI - Aquamarine](./_gfx/zenburn-monolith-opal-hcui-aquamarine-preview.png)](./_gfx/zenburn-monolith-opal-hcui-aquamarine-preview.png)
@@ -956,6 +950,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Monolith - Opal HCUI - Beryl](./_gfx/zenburn-monolith-opal-hcui-beryl-preview.png)](./_gfx/zenburn-monolith-opal-hcui-beryl-preview.png)
 
 [Beryl](./_gfx/zenburn-monolith-opal-hcui-beryl-preview.png) <br>Opal HCUI
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Monolith - Opal HCUI - Hearthstone](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png)](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png)
+
+[Hearthstone](./_gfx/zenburn-monolith-opal-hcui-hearthstone-preview.png) <br>Opal HCUI
 </td>
 <td align="center" valign="top" >
 
@@ -5021,7 +5021,7 @@ These variants has a dark gray cold/flat/warm backgrounds (based on the theme yo
 
 # About my PHP Script **VSCode Themes Master**
 
-> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:31:55
+> Engine: **VSCode Themes Master** v. 1.12.254 - Update: 2022-04-21 16:33:13
 
 The `Zenburn Cold Gray` prototype was initially a manual editing of the VSCode settings and some tokens, based on the `Zenburn` theme porting from `Eclipse IDE` (see below the thanks, to the paragraph `Gratitude`) in conjunction with the background of the `DevStyle` extension for Eclipse IDE.
 
